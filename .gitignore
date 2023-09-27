@@ -6,3 +6,4 @@
 .env
 /src/Credentials.h
 /node_modules
+package-lock.json
