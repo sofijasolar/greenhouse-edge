@@ -16,7 +16,7 @@ Create a Credentials.h file in 'src' folder. Define variables for your:
 
 ## Run
 
-`pio run --target upload`
-`pio device monitor`
+- `pio run --target upload`
+- `pio device monitor`
 
 
