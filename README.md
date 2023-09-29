@@ -7,8 +7,8 @@ Handles sensor data collection and MQTT communication for greenhouse monitoring,
 ## Installation
 
 Create a Credentials.h file in 'src' folder. Define variables for your:
- - SSID, 
- - PASSWORD, 
+ - SSID (WiFi)
+ - PASSWORD (WiFi password)
  - MQTT_USERNAME, 
  - MQTT_PASSWORD, 
  - MQTT_SERVER 
